@@ -1,0 +1,8 @@
+=== ForensicVision Evaluation Report ===
+Best Threshold: 0.60
+Pixel IoU:       0.7207
+Pixel F1:        0.8377
+Pixel Precision: 0.8688
+Pixel Recall:    0.8086
+Image Accuracy:  0.9162
+Image F1:        0.8895
