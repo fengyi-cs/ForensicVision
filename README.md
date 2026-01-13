@@ -85,7 +85,7 @@ ForensicVision/
 
 ### 4.1 Recommended environment
 
-- Python: 3.10 (3.93.11 should also work)
+- Python: 3.10 (3.9-3.11 should also work)
 - OS: Linux / WSL / Windows (GPU recommended)
 - GPU (optional): NVIDIA GPU with a CUDA version compatible with your PyTorch install
 
